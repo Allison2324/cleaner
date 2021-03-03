@@ -119,4 +119,4 @@ if __name__ == "__main__":
             world.move("DOWN")
         print("pos", pos)
         print("dust", dust)
-        clock.tick(50)
+        clock.tick(200)

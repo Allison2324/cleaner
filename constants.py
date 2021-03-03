@@ -1,7 +1,7 @@
 import numpy as np
 
 
-SIZE = (10, 10)
+SIZE = (32, 32)
 CLEANER = 64
 NONE = 0
 DUST = 1
